@@ -3,4 +3,4 @@
 
 ### Ignacio López
 
-##Apuntes de Sofia
+Apuntes de Sofia
